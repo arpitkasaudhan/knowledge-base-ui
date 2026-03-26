@@ -12,11 +12,11 @@ A pixel-accurate React implementation of the Figma design provided in the Aventi
 
 ### Screen 1 — Knowledge Base Home
 
-![Knowledge Base Home](assets/image1.png)
+![Knowledge Base Home](assets/image1.jpeg)
 
 ### Screen 2 — Create New Knowledge Base Modal
 
-![Create New Modal](assets/image2.png)
+![Create New Modal](assets/image2.jpeg)
 
 ---
 
